@@ -73,9 +73,8 @@ export const ContactPage: React.FC = () => {
             </div>
             <h3 className="font-serif text-base font-bold text-[#F8FAFC]">Tech Lab & Dispatch Facility</h3>
             <p className="text-xs text-[#94A3B8]">
-              TechRcPro Dyno Testing Center<br />
-              500 Speed Circuit Blvd, Suite 100<br />
-              Austin, TX 78725
+              4623 Brinkley ST.<br />
+              Houston TX 77051, United States
             </p>
           </div>
         </div>

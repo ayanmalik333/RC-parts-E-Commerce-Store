@@ -205,7 +205,7 @@ export const Footer: React.FC = () => {
           </h4>
           <div className="space-y-2 text-xs text-[#94A3B8] leading-relaxed">
             <p>TechRcPro Engineering Lab</p>
-            <p>500 Speed Circuit Blvd, Suite 100</p>
+            <p>4623 Brinkley ST. Houston TX 77051, United States</p>
             <p className="pt-1 font-mono text-[11px] text-[#38BDF8]">support@techrcpro.com</p>
             <p className="font-mono text-[11px]">(346) 475-6682</p>
           </div>

@@ -379,8 +379,8 @@ export const INITIAL_ORDERS: Order[] = [
     customerName: 'Alex Mercer',
     phone: '(346) 475-6682',
     email: 'alex.m@example.com',
-    shippingAddress: '742 Speed Circuit Parkway, Bay 4',
-    city: 'Austin, TX',
+    shippingAddress: '4623 Brinkley ST.',
+    city: 'Houston, TX 77051',
     orderNotes: 'Urgent weekend race delivery. Please pack with extra cushioning.',
     paymentMethod: 'Cash on Delivery',
     items: [

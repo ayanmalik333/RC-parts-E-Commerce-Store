@@ -286,7 +286,7 @@ export const CheckoutPage: React.FC = () => {
                   id="checkout-address"
                   type="text"
                   required
-                  placeholder="742 Speed Circuit Parkway, Suite 4"
+                  placeholder="4623 Brinkley ST."
                   value={shippingAddress}
                   onChange={(e) => setShippingAddress(e.target.value)}
                   className="w-full px-3.5 py-2.5 text-xs bg-[#0B0F19] text-[#F8FAFC] border border-[#1E293B] rounded-xl focus:outline-none focus:border-[#0284C7]"
@@ -302,7 +302,7 @@ export const CheckoutPage: React.FC = () => {
                     id="checkout-city"
                     type="text"
                     required
-                    placeholder="Austin, TX"
+                    placeholder="Houston, TX 77051"
                     value={city}
                     onChange={(e) => setCity(e.target.value)}
                     className="w-full px-3.5 py-2.5 text-xs bg-[#0B0F19] text-[#F8FAFC] border border-[#1E293B] rounded-xl focus:outline-none focus:border-[#0284C7]"
