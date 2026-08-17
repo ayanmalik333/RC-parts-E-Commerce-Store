@@ -1,0 +1,6 @@
+{
+  "name": "TechRcPro E-Commerce",
+  "description": "High-performance RC parts, brushless motors, LiPo batteries, telemetry transmitters, carbon fiber chassis, and smart catalog with direct checkout and management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
